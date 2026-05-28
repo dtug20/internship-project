@@ -1,5 +1,7 @@
 PyQt5
 opencv-python 
 numpy 
-easyocr
+paddlepaddle
+paddleocr
 ultralytics
+onnxruntime
